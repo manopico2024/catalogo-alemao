@@ -10,7 +10,7 @@ class Ui_root(object):
     def setupUi(self, root):
         root.setObjectName("root")
         root.setFixedSize(313, 339)
-        root.setStyleSheet("background-color: rgb(40, 135, 119);")
+        root.setStyleSheet("background-color: rgb(40, 135, 155);")
 
         # Central Widget
         self.centralwidget = QtWidgets.QWidget(root)
