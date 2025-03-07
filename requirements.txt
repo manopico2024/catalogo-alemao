@@ -1,0 +1,4 @@
+pillow~=10.4.0
+matplotlib~=3.9.2
+numpy~=1.26.4
+PyQt5~=5.15.11
