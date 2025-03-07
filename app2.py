@@ -9,4 +9,4 @@
 
 class funcoes_dos_botoes():
     def bota_cadastrar(self):
-        print("Botão pressionado!!")
+        print("Botão pressionados!!")
